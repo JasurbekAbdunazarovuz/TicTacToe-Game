@@ -1,0 +1,3 @@
+example@mail.ru 12345abv
+Alex@mail.ru alex
+jasurbek@gmail.com 12345d
